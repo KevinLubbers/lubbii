@@ -1,0 +1,89 @@
+[11-Mar-2022 05:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 31
+[13-Mar-2022 22:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:56:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:58:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 22:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:07:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createForm() in /home/abkluywm9cmc/public_html/pages/contactPage.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 17
+[13-Mar-2022 23:09:24 UTC] PHP Warning:  require_once(./layoutUI/form.php): Failed to open stream: No such file or directory in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 1
+[13-Mar-2022 23:09:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './layoutUI/form.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abkluywm9cmc/public_html/pages/contactPage.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/contactPage.php on line 1
+[14-Mar-2022 04:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createLoginForm() in /home/abkluywm9cmc/public_html/pages/loginPage.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/abkluywm9cmc/public_html/pages/loginPage.php on line 11

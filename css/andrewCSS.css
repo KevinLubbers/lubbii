@@ -1,0 +1,22 @@
+#navBar{
+    display:flex;
+}
+
+.navBlock{
+    display:flex;
+    justify-content:center;
+    flex-flow:row;
+    flex:15%;
+}
+
+#contentWrap{
+    display:flex;
+}
+#columnL{
+    flex:50%;
+    text-align:center;
+}
+#columnR{
+    flex:50;
+    text-align:center;
+}
